@@ -5,7 +5,7 @@ function sumRange(n) {
 
   return n + sumRange(n - 1);
 }
-console.log(sumRange(3));
+console.log(sumRange(7));
 
 ///=== Question 2: Power function ===//
 
