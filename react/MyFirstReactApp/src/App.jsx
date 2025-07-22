@@ -1,5 +1,8 @@
 import "./App.css";
-import Poem from "./Practice/render/Chalenge/ListWithSeperation";
+import { ProfileC } from "./Practice/Props/ChallengePassingJSXchildren.jsx";
+// import Profile from "./Practice/Props/PassingJSXchildren.jsx";
+// import Gallery from "./Practice/render/Chalenge/PassingJSXchildren.jsx";
+// import Poem from "./Practice/render/Chalenge/ListWithSeperation";
 // import RecipeList from "./Practice/render/Chalenge/recepi3.jsx";
 // import { Food } from "./Practice/Food";
 // import Greeting from "./Practice/Greeting";
@@ -11,7 +14,7 @@ function App() {
   return (
     <>
       <div className="min-h-screen bg-blue-900 flex flex-col items-center">
-        <Poem />
+        <ProfileC />
       </div>
     </>
   );
