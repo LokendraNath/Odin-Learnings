@@ -1,4 +1,4 @@
-import { RenderList } from "./renderLI";
+import { RenderList } from "./renderLIMap";
 
 export function RenderLists({allSeries}) {
   return (

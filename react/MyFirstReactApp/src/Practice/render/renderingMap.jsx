@@ -1,4 +1,4 @@
-import { RenderLists } from "./renderUL";
+import { RenderLists } from "./renderULMap";
 
 export function MyFavSeries() {
   const allSeries = [
